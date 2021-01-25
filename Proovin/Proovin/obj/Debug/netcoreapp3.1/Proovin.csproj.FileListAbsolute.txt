@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.exe
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.deps.json
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.runtimeconfig.json
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.dll
+C:\Users\opilane\source\repos\Proovin\Proovin\bin\Debug\netcoreapp3.1\Proovin.pdb
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.dll
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.pdb
+C:\Users\opilane\source\repos\Proovin\Proovin\obj\Debug\netcoreapp3.1\Proovin.genruntimeconfig.cache
